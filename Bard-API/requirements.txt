@@ -1,0 +1,5 @@
+Werkzeug==2.2.2
+bardapi==0.1.23a
+Flask==2.0.2
+requests==2.26.0  # (if needed for making API requests, depending on Bard's requirements)
+# Other dependencies...
